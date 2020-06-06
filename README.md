@@ -13,9 +13,9 @@ The script was written to create data for the analysis in my paper "Can Equity C
 ## Deployment    
 
 -Install Python 3 using Anaconda or another method.    
--Install Jupyter Notebook.    
--Install the Python requirements listed at the beginning of the notebook.
--Pycrunchbase can be found here: https://github.com/ngzhian/pycrunchbase.    
+-Install Jupyter Notebook.      
+-Install the Python requirements listed at the beginning of the notebook.      
+-Pycrunchbase can be found here: https://github.com/ngzhian/pycrunchbase.       
 -Run the program in Jupyter notebook. Results will be exported to the current working directory.     
 
 ## Data Viz
