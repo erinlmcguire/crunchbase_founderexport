@@ -11,8 +11,14 @@ The script was written to create data for the analysis in my paper "Can Equity C
 -Save a csv with all the names of the companies and update the file in the Jupyter notebook.    
 
 ## Deployment    
+
 -Install Python 3 using Anaconda or another method.    
 -Install Jupyter Notebook.    
 -Install the Python requirements listed at the beginning of the notebook.
 -Pycrunchbase can be found here: https://github.com/ngzhian/pycrunchbase.    
 -Run the program in Jupyter notebook. Results will be exported to the current working directory.     
+
+## Data Viz
+
+Here are comparative heatmaps of companies founded by males and females.
+<img src="male_map.png" width="50%"/>  <img src="female_map.png" width="50%"/>
