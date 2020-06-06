@@ -20,5 +20,5 @@ The script was written to create data for the analysis in my paper "Can Equity C
 
 ## Data Viz
 
-Here are comparative heatmaps of companies founded by males and females.
-<img src="male_map.pdf" width="50%"/>  <img src="female_map.pdf" width="50%"/>
+[Here](all_map.pdf) is a heatmap of the counties where the Crunchbase startups are located. 
+
