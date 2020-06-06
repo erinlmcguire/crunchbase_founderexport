@@ -8,7 +8,7 @@ The script was written to create data for the analysis in my paper "Can Equity C
 
 -Insert your Crunchbase API key in the notebook.  Crunchbase gives out API keys to approved researchers and you can request one from their site.    
 -Export all company names from Crunchbase using their daily csv export. I pulled all the names from the database because I wanted to maximize my sample size, but you can filter by industry or location after you export.     
--Save a csv with all the names of the companies and insert that information into the Jupyter notebook.    
+-Save a csv with all the names of the companies and update the file in the Jupyter notebook.    
 
 ## Deployment    
 -Install Python 3 using Anaconda or another method.    
