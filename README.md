@@ -20,5 +20,5 @@ The script was written to create data for the analysis in my paper "Can Equity C
 
 ## Data Viz
 
-[Here](all_map.pdf) is a heatmap of the counties where the Crunchbase startups are located. I also made comparative heatmaps of [female company locations](female_map.pdf) and [male company locations](male_map.pdf).
+[Here](map_count.pdf) is a heatmap of the counties where the Crunchbase startups are located. I also made comparative heatmaps of [female company locations](female_map.pdf) and [male company locations](male_map.pdf).
 
