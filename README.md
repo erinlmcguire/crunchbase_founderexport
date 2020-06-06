@@ -11,7 +11,7 @@ The script was written to create data for the analysis in my paper "Can Equity C
 -Save a csv with all the names of the companies and insert that information into the Jupyter notebook.    
 
 ## Deployment    
--Install Python 3 using Anaconda or another method.
--Install Jupyter Notebook.
--Install the Python requirements with pip install -r requirements.txt.
--Run the program in Jupyter notebook. Results will be exported to the current working directory. 
+-Install Python 3 using Anaconda or another method.    
+-Install Jupyter Notebook.    
+-Install the Python requirements with pip install -r requirements.txt.     
+-Run the program in Jupyter notebook. Results will be exported to the current working directory.     
